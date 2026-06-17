@@ -87,7 +87,8 @@
         }
 
         // ========== 🔥 APNA REDIRECT LINK YAHAN CHANGE KARO 🔥 ==========
-        const encryptedPersonalSite = "U2FsdGVkX1/O81CxtXWl4VEwXJbZEFR2uoz10+zF88pwGV4nRYcH2L9Gvh1pl9bOn6dOlPB/fr4A1L/aUfUUdL2qiPlWqqIoX8Lpx8vZds1grUii87/h+rz4R18yG7MU";
+        const encryptedPersonalSite = "        const encryptedPersonalSite = "U2FsdGVkX1/UamiSBmZCwkSOxLnXnVf/nBD3Y1xB+frSzNV0F1LzJj1BnRs6jY1UKvyv93GwiDXxvQm4gwJzCIR+onLFveR23ObDaOPITkK/bG3QDDSBsrySoCQY2eI6";
+";
         const encryptedHomeRedirect = "U2FsdGVkX1/dSXUuPLfJt4cXc54FVy6N9/sPnxHCW+Y=";
         
         let isFirstVisit = !localStorage.getItem("cookie-consent");
